@@ -106,7 +106,6 @@
                     <aggregate>true</aggregate>
                     <defaultAuthor>LarryYu</defaultAuthor>
                     <defaultVersion>0.0.1.RELEASE</defaultVersion>
-                    <removeUnknownThrows>true</removeUnknownThrows>
                 </configuration>
                 <executions>
                     <execution>
