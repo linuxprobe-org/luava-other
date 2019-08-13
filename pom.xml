@@ -37,7 +37,7 @@
 
     <groupId>org.linuxprobe</groupId>
     <artifactId>luava-other</artifactId>
-    <version>0.0.2.RELEASE</version>
+    <version>0.0.3.RELEASE</version>
     <packaging>jar</packaging>
     <name>luava-other</name>
     <description>luava-other</description>
